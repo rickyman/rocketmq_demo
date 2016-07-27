@@ -1,0 +1,6 @@
+{
+  "name": "Rocketmq demo",
+  "tagline": "rocketmq 本地搭建 命令   代码 demo",
+  "body": "# rocketmq_demo\r\nrocketmq 本地搭建 命令   代码 demo\r\n\r\n搭建环境: ubuntu \r\njdk: 1.6 \r\nmvn : Apache Maven 3.0.5  \r\nrocketmq: https://github.com/alibaba/RocketMQ.git\r\ngit:git version 1.9.1\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
